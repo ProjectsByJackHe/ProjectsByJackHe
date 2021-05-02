@@ -2,7 +2,7 @@
 
 I am a 3rd year Computer Science student with experience from 2 internships at Microsoft (1 Explore, 1 Software engineering).
 
-- 🔭 I’m currently working on a leetcode chrome extension I call: CODEBLOCK!!! There is also my YouTube channel where I post tutorials and tech-related videos (Mr.Beast!!!)
+- 🔭 I’m currently working on a leetcode chrome extension I call: CODEBLOCK!!! There is also my YouTube channel where I post tutorials and tech-related videos (Mr.Beast is my favorite YouTuber! Maybe one day I can reach his level.)
 
 - 🌱 I’m currently learning ML and AI. Buzzwords aside, I am really interested in the engineering behind deploying models in production to solve problems in real life. 
 
