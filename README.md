@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I am Jack! 👋
 
-I am a 3rd year Computer Science student with experience from 2 internships at Microsoft (1 Explore, 1 Software engineering).
+I am a Computer Science undergrad @UBC with experience from 2 internships at Microsoft (1 Explore, 1 Software engineering).
 
-- 🔭 I’m currently working on a leetcode chrome extension I call: CODEBLOCK!!! There is also my YouTube channel where I post tutorials and tech-related videos (Mr.Beast is my favorite YouTuber!)
+- 🔭 I’m currently working on a leetcode chrome extension I call: CODEBLOCK (https://getcodeblock.app)!
 
 - 🌱 I’m currently learning ML and AI. I am really interested in the engineering behind deploying models in production to solve problems in real life. 
 
