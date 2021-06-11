@@ -8,7 +8,7 @@ I am a Computer Science undergrad @UBC with experience from 2 internships at Mic
 
 - 📫 How to reach me: Email me at jackhe2345@gmail.com! I'd love to chat.
 
-- ⚡ Fun fact: I can deadlift **at most** 800 lbs, at least 135 lbs, squat **at most** 800 lbs, at least 135 lbs, bench **at most** 405 lbs, at least 90 lbs.
+- ⚡ Fun fact: I can deadlift **at most** 275 lbs, at least 135 lbs, squat **at most** 225 lbs, at least 135 lbs, bench **at most** 135 lbs, at least 90 lbs.
 <!--
 **ProjectsByJackHe/ProjectsByJackHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
