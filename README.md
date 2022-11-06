@@ -1,25 +1,7 @@
 ### Hi there, I am Jack! 👋
 
-I am a Computer Science undergrad @UBC with experience from 2 internships at Microsoft (1 Explore, 1 Software engineering).
+I am a senior at UBC studying Computer Science. 
 
-- 🔭 I’m currently working on a leetcode chrome extension I call: CODEBLOCK (https://getcodeblock.app)!
+I was previously at Nuro working on Autonomy tooling, before that I was at Microsoft working on Azure Edge + Devices. 
 
-- 🌱 I’m currently learning ML and AI. I am really interested in the engineering behind deploying models in production to solve problems in real life. 
-
-- 📫 How to reach me: Email me at jackhe2345@gmail.com! I'd love to chat.
-
-- ⚡ Fun fact: I can deadlift **at most** 300 lbs (sumo), squat **at most** 225 lbs, bench **at most** 160 lbs.
-<!--
-**ProjectsByJackHe/ProjectsByJackHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy to chat about these experiences, reach me at jack@jackhetech.io. 
