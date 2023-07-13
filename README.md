@@ -1,7 +1,9 @@
 ### Hi there, I am Jack! 👋
 
-I am a senior at UBC studying Computer Science. 
+I graduated UBC with a degree in Computer Science in 4 years :)
 
-I was previously at Nuro working on Autonomy tooling, before that I was at Microsoft working on Azure Edge + Devices. 
+As an undergrad, I did 4 internships, 3 at Microsoft and 1 at Nuro.
 
-Happy to chat about these experiences, reach me at jack@jackhetech.io. 
+Now, I am a full time software engineer at Microsoft working on MsQuic! (GOTTA GO FAST!)
+
+Happy to chat about these experiences, reach me at jackhe2345@gmail.com
