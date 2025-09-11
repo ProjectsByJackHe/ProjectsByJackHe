@@ -2,7 +2,7 @@
 
 I graduated UBC with a bachelors degree in Computer Science (Bsc.).
 
-As an undergrad, I did 4 internships, 3 at Microsoft and 1 at Nuro.ai.
+As an undergrad, I completed 3 engineering internships at Microsoft and 1 at Nuro.ai (self driving robotics company).
 
 Now, I am a full time software engineer at Microsoft working on Operating Systems networking in C and C++ (GOTTA GO FAST!).
 
