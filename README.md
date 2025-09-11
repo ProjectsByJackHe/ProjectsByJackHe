@@ -1,6 +1,6 @@
 ### Hi there, I am Jack! 👋
 
-I graduated UBC with a degree in Computer Science in 4 years :)
+I graduated UBC with a bachelors degree in Computer Science (Bsc.).
 
 As an undergrad, I did 4 internships, 3 at Microsoft and 1 at Nuro.ai.
 
